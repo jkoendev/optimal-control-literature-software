@@ -19,7 +19,7 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
  - Forces
  - Yalmip
  - CasADi
- - [OpenOCL](https://openocl.org) 
+ - OpenOCL
  - gPROMS 
  - COMSOL
  - ICLOCS2 
