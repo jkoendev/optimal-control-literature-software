@@ -66,3 +66,9 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 - JuliaDiff [[github](https://github.com/JuliaDiff/)] [[web](http://www.juliadiff.org/)]
 - CppAD [[github](https://github.com/coin-or/CppAD)]
 - CppADCodeGen [[github](https://github.com/joaoleal/CppADCodeGen)]
+
+
+## Other material
+
+- Summer School on Numerical Optimization Software, Hans D. Mittelmann, Moritz Diehl [[web](https://www.syscop.de/teaching/2016/summer-school-on-numerical-optimization-software)] [[repository](https://gitlab.syscop.de/teaching/NOS_public)]
+- Decision tree, benchmarks for numerical optimization software, Hans D. Mittelmann [[web](http://plato.asu.edu/)]
