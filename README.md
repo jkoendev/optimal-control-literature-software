@@ -43,5 +43,5 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 - WORHP (commercial)
 - CPLEX (commercial)
 - Gruobi (commercial)
-- KNITRO
+- KNITRO (commercial)
 - 
