@@ -14,13 +14,10 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 ### High level optimal control modeling languages
 
 - Pyomo with .DAE extension [[github](https://github.com/Pyomo/pyomo)] [[web](http://www.pyomo.org/)] 
-- Yalmip [[github](https://github.com/yalmip/YALMIP] [[web](https://yalmip.github.io/)] 
-- CasADi [[github](https://github.com/casadi/casadi)] [[web](https://web.casadi.org/)]
 - OpenOCL [[github](https://github.com/OpenOCL/OpenOCL)] [[web](https://openocl.org/)] 
 - ICLOCS2 [[github](https://github.com/ImperialCollegeLondon/ICLOCS/)] [[web](http://www.ee.ic.ac.uk/ICLOCS/)] 
 - Modelica with JModelica [[web](https://jmodelica.org/)] 
 - Acado [[github](https://github.com/acado/acado)] [[web](http://acado.github.io/)]
-- CVX [[web](http://cvxr.com/cvx/)]
 - PSOPT [[github](https://github.com/PSOPT/psopt)] [[web](http://www.psopt.org/)]
 - BOCOP [[web](https://www.bocop.org/)]
 - ADRL Control toolbox, domain specific for robotics [[bitbucket](https://bitbucket.org/adrlab/ct/wiki/Home)]
@@ -34,6 +31,13 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 - Mujoco (commercial)
 - Optimica, Dymola (commercial)
 - GPOPS2 (commercial)
+
+### High level numerical optimization modeling languages
+
+- Yalmip [[github](https://github.com/yalmip/YALMIP)] [[web](https://yalmip.github.io/)] 
+- CasADi [[github](https://github.com/casadi/casadi)] [[web](https://web.casadi.org/)]
+- Pyomo [[github](https://github.com/Pyomo/pyomo)] [[web](http://www.pyomo.org/)] 
+- CVX, convex [[web](http://cvxr.com/cvx/)]
 
 ### Numerical optimization solver 
 
