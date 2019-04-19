@@ -1,5 +1,7 @@
 # Literature and list of software packages for optimal control 
 
+This list will be updated regularly.
+
 ## Literature
 
 * Lecture notes: Numerical Optimal Control by Prof. Moritz Diehl [[course](https://www.syscop.de/teaching/ss2017/numerical-optimal-control)] [[pdf](https://www.syscop.de/files/2017ss/NOC/script/book-NOCSE.pdf)]
@@ -32,5 +34,10 @@
  - ADRL towr
  - Mujoco
  
- ### Optimal control and numerical optimization solver 
- - 
+ ### Numerical optimization solver 
+
+- Ipopt
+- Snopt
+- Forces
+- Matlab fmincon
+- 
