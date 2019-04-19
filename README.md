@@ -24,11 +24,10 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 - ADRL towr, domain specific for legged robots [[github](https://github.com/ethz-adrl/towr)]
 - PROPT (commercial)
 - DIDO (commercial)
-- COMSOL (commercial)
 - gPROMS (commercial)
 - Forces (commercial)
 - AMPL with TACO extension (commercial)
-- Mujoco (commercial)
+- Mujoco, domain specific for robotics/contact, simulator (commercial)
 - Optimica, Dymola (commercial)
 - GPOPS2 (commercial)
 
