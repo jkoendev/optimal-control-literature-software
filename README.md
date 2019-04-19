@@ -48,6 +48,10 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 
 #### Linear, quadratic, convex programming
 
+- Sedumi [[github](https://github.com/sqlp/sedumi)]
+- qpOASES [[coin-or](https://projects.coin-or.org/qpOASES)]
+- qpDUNES [[github](https://github.com/jfrasch/qpDUNES)]
+- hpipm [[github](https://github.com/giaf/hpipm)]
 - CPLEX (commercial)
 - Gruobi (commercial)
 - MINOS (commercial)
