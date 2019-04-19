@@ -9,7 +9,7 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 * Biegler, L. T., Nonlinear Programming, SIAM, 2010
 * Betts, J., Practical Methods for Optimal Control and Estimation Using Nonlinear Programming, SIAM, 2010
 
-## Software packages 
+## Software 
 
 ### High level optimal control modeling languages
 
