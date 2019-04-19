@@ -13,19 +13,18 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 
 ### High level optimal control modeling languages
 
-- Pyomo with .DAE extension
-- Modelica with JModelica, Optimica, Dymola
-- Yalmip
-- CasADi
-- OpenOCL
-- ICLOCS2 
-- Acado
-- CVX
-- PSOPT
-- BOCOP 
-- GPOPS2
-- ADRL Control toolbox 
-- ADRL towr
+- Pyomo with .DAE extension [[github](https://github.com/Pyomo/pyomo)] [[web](http://www.pyomo.org/)] 
+- Yalmip [[github](https://github.com/yalmip/YALMIP] [[web](https://yalmip.github.io/)] 
+- CasADi [[github](https://github.com/casadi/casadi)] [[web](https://web.casadi.org/)]
+- OpenOCL [[github](https://github.com/OpenOCL/OpenOCL)] [[web](https://openocl.org/)] 
+- ICLOCS2 [[github](https://github.com/ImperialCollegeLondon/ICLOCS/)] [[web](http://www.ee.ic.ac.uk/ICLOCS/)] 
+- Modelica with JModelica [[web](https://jmodelica.org/)] 
+- Acado [[github](https://github.com/acado/acado)] [[web](http://acado.github.io/)]
+- CVX [[web](http://cvxr.com/cvx/)]
+- PSOPT [[github](https://github.com/PSOPT/psopt)] [[web](http://www.psopt.org/)]
+- BOCOP [[web](https://www.bocop.org/)]
+- ADRL Control toolbox, domain specific for robotics [[bitbucket](https://bitbucket.org/adrlab/ct/wiki/Home)]
+- ADRL towr, domain specific for legged robots [[github](https://github.com/ethz-adrl/towr)]
 - PROPT (commercial)
 - DIDO (commercial)
 - COMSOL (commercial)
@@ -33,6 +32,8 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 - Forces (commercial)
 - AMPL with TACO extension (commercial)
 - Mujoco (commercial)
+- Optimica, Dymola (commercial)
+- GPOPS2 (commercial)
 
 ### Numerical optimization solver 
 
@@ -45,6 +46,7 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 - WORHP (commercial)
 - KNITRO (commercial)
 - CONOPT (commercial)
+
 
 #### Linear, quadratic, convex programming
 
