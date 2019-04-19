@@ -38,7 +38,7 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 
 #### Non-linear programming
 
-- Ipopt
+- Ipopt [[github](https://github.com/coin-or/Ipopt)]
 - Snopt (commercial)
 - Forces (commercial)
 - Matlab fmincon (commercial)
@@ -62,5 +62,6 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 
 ## Automatic differentiation
 
-- CasADi
-- JuliaDiff
+- CasADi [[github](https://github.com/casadi/casadi)] [[web](https://web.casadi.org/)]
+- JuliaDiff [[github](https://github.com/JuliaDiff/)] [[web](http://www.juliadiff.org/)]
+- CppAD [[github](https://github.com/coin-or/CppAD)]
