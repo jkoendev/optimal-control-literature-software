@@ -1,6 +1,6 @@
 # Literature and list of software packages for optimal control 
 
-This list will be updated regularly.
+The list includes resources to the following topics: Automatic/algorithmic differentiation, optimal control, model-predictive control (MPC), numerical optimization, modeling for control.  The list will be updated regularly.
 
 ## Literature
 
