@@ -65,3 +65,4 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 - CasADi [[github](https://github.com/casadi/casadi)] [[web](https://web.casadi.org/)]
 - JuliaDiff [[github](https://github.com/JuliaDiff/)] [[web](http://www.juliadiff.org/)]
 - CppAD [[github](https://github.com/coin-or/CppAD)]
+- CppADCodeGen [[github](https://github.com/joaoleal/CppADCodeGen)]
