@@ -13,9 +13,9 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 
 ### High level optimal control modeling languages
 
- - AMPL w TACO (commercial)
- - Pyomo w .DAE
- - Modelica w JModelica Optimica Dymola
+ - AMPL with TACO extension (commercial)
+ - Pyomo with .DAE extension
+ - Modelica with JModelica, Optimica, Dymola
  - Forces (commercial)
  - Yalmip
  - CasADi
@@ -45,3 +45,8 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 - Gruobi (commercial)
 - KNITRO (commercial)
 - 
+
+## Automatic differentiation
+
+- CasADi
+- JuliaDiff
