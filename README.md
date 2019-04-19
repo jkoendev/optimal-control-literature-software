@@ -13,31 +13,35 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 
 ### High level optimal control modeling languages
 
- - AMPL w TACO
+ - AMPL w TACO (commercial)
  - Pyomo w .DAE
  - Modelica w JModelica Optimica Dymola
- - Forces
+ - Forces (commercial)
  - Yalmip
  - CasADi
  - OpenOCL
- - gPROMS 
- - COMSOL
+ - gPROMS (commercial)
+ - COMSOL (commercial)
  - ICLOCS2 
  - Acado
  - CVX
- - DIDO
- - PROPT
+ - DIDO (commercial)
+ - PROPT (commercial)
  - PSOPT
- - BOCOP
+ - BOCOP 
  - GPOPS2
  - ADRL Control toolbox 
  - ADRL towr
- - Mujoco
+ - Mujoco (commercial)
  
  ### Numerical optimization solver 
 
 - Ipopt
-- Snopt
-- Forces
+- Snopt (commercial)
+- Forces (commercial)
 - Matlab fmincon
+- WORHP (commercial)
+- CPLEX (commercial)
+- Gruobi (commercial)
+- KNITRO
 - 
