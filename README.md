@@ -13,25 +13,25 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 
 ### High level optimal control modeling languages
 
-- AMPL with TACO extension (commercial)
 - Pyomo with .DAE extension
 - Modelica with JModelica, Optimica, Dymola
-- Forces (commercial)
 - Yalmip
 - CasADi
 - OpenOCL
-- gPROMS (commercial)
-- COMSOL (commercial)
 - ICLOCS2 
 - Acado
 - CVX
-- DIDO (commercial)
-- PROPT (commercial)
 - PSOPT
 - BOCOP 
 - GPOPS2
 - ADRL Control toolbox 
 - ADRL towr
+- PROPT (commercial)
+- DIDO (commercial)
+- COMSOL (commercial)
+- gPROMS (commercial)
+- Forces (commercial)
+- AMPL with TACO extension (commercial)
 - Mujoco (commercial)
 
 ### Numerical optimization solver 
@@ -43,10 +43,18 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 - Forces (commercial)
 - Matlab fmincon (commercial)
 - WORHP (commercial)
+- KNITRO (commercial)
+- CONOPT (commercial)
+
+#### Linear, quadratic, convex programming
+
 - CPLEX (commercial)
 - Gruobi (commercial)
-- KNITRO (commercial)
-- 
+- MINOS (commercial)
+
+#### Integer, mixed-integer programming
+
+- Bonmin
 
 ## Automatic differentiation
 
