@@ -16,51 +16,51 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 
 ### High level optimal control modeling languages
 
-- Pyomo with .DAE extension [[github](https://github.com/Pyomo/pyomo)] [[web](http://www.pyomo.org/)] 
-- OpenOCL [[github](https://github.com/OpenOCL/OpenOCL)] [[web](https://openocl.org/)] 
+- Acado [[github](https://github.com/acado/acado)] [[web](http://acado.github.io/)]
+- BOCOP [[web](https://www.bocop.org/)]
+- Control toolbox, domain specific for robotics [[bitbucket](https://bitbucket.org/adrlab/ct/wiki/Home)]
 - ICLOCS2 [[github](https://github.com/ImperialCollegeLondon/ICLOCS/)] [[web](http://www.ee.ic.ac.uk/ICLOCS/)] 
 - Modelica with JModelica [[web](https://jmodelica.org/)] 
-- Acado [[github](https://github.com/acado/acado)] [[web](http://acado.github.io/)]
+- OpenOCL [[github](https://github.com/OpenOCL/OpenOCL)] [[web](https://openocl.org/)] 
 - PSOPT [[github](https://github.com/PSOPT/psopt)] [[web](http://www.psopt.org/)]
-- BOCOP [[web](https://www.bocop.org/)]
-- ADRL Control toolbox, domain specific for robotics [[bitbucket](https://bitbucket.org/adrlab/ct/wiki/Home)]
-- ADRL towr, domain specific for legged robots [[github](https://github.com/ethz-adrl/towr)]
-- PROPT (commercial)
-- DIDO (commercial)
-- gPROMS (commercial)
-- Forces (commercial)
+- Pyomo with .DAE extension [[github](https://github.com/Pyomo/pyomo)] [[web](http://www.pyomo.org/)] 
+- towr, domain specific for legged robots [[github](https://github.com/ethz-adrl/towr)]
 - AMPL with TACO extension (commercial)
+- DIDO (commercial)
+- Forces (commercial)
+- GPOPS2 (commercial)
+- gPROMS (commercial)
 - Mujoco, domain specific for robotics/contact, simulator (commercial)
 - Optimica, Dymola (commercial)
-- GPOPS2 (commercial)
+- PROPT (commercial)
 
 ### High level numerical optimization modeling languages
 
-- Yalmip [[github](https://github.com/yalmip/YALMIP)] [[web](https://yalmip.github.io/)] 
 - CasADi [[github](https://github.com/casadi/casadi)] [[web](https://web.casadi.org/)]
-- Pyomo [[github](https://github.com/Pyomo/pyomo)] [[web](http://www.pyomo.org/)] 
 - CVX, convex [[web](http://cvxr.com/cvx/)]
+- Pyomo [[github](https://github.com/Pyomo/pyomo)] [[web](http://www.pyomo.org/)] 
+- Yalmip [[github](https://github.com/yalmip/YALMIP)] [[web](https://yalmip.github.io/)] 
 
 ### Numerical optimization solver 
 
 #### Non-linear programming
 
 - Ipopt [[github](https://github.com/coin-or/Ipopt)]
-- Snopt (commercial)
-- Forces (commercial)
-- Matlab fmincon (commercial)
-- WORHP (commercial)
-- KNITRO (commercial)
 - CONOPT (commercial)
+- Forces (commercial)
+- KNITRO (commercial)
+- Matlab fmincon (commercial)
+- Snopt (commercial)
+- WORHP (commercial)
 
 
 #### Linear, quadratic, convex programming
 
-- Sedumi [[github](https://github.com/sqlp/sedumi)]
-- qpOASES [[coin-or](https://projects.coin-or.org/qpOASES)]
-- qpDUNES [[github](https://github.com/jfrasch/qpDUNES)]
-- hpipm [[github](https://github.com/giaf/hpipm)]
 - ECOS [[github](https://github.com/embotech/ecos)]
+- hpipm [[github](https://github.com/giaf/hpipm)]
+- Sedumi [[github](https://github.com/sqlp/sedumi)]
+- qpDUNES [[github](https://github.com/jfrasch/qpDUNES)]
+- qpOASES [[coin-or](https://projects.coin-or.org/qpOASES)]
 - SDPT3 [[web](http://www.math.nus.edu.sg/~mattohkc/sdpt3.html)]
 - CPLEX (commercial)
 - Gruobi (commercial)
@@ -74,10 +74,9 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 ## Automatic differentiation
 
 - CasADi [[github](https://github.com/casadi/casadi)] [[web](https://web.casadi.org/)]
-- JuliaDiff [[github](https://github.com/JuliaDiff/)] [[web](http://www.juliadiff.org/)]
 - CppAD [[github](https://github.com/coin-or/CppAD)]
 - CppADCodeGen [[github](https://github.com/joaoleal/CppADCodeGen)]
-
+- JuliaDiff [[github](https://github.com/JuliaDiff/)] [[web](http://www.juliadiff.org/)]
 
 ## Other material
 
