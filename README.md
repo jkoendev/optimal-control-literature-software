@@ -59,7 +59,7 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 - qpDUNES [[github](https://github.com/jfrasch/qpDUNES)]
 - hpipm [[github](https://github.com/giaf/hpipm)]
 - ECOS [[github](https://github.com/embotech/ecos)]
-- SDPT3 [[web],(http://www.math.nus.edu.sg/~mattohkc/sdpt3.html)]
+- SDPT3 [[web](http://www.math.nus.edu.sg/~mattohkc/sdpt3.html)]
 - CPLEX (commercial)
 - Gruobi (commercial)
 - MINOS (commercial)
