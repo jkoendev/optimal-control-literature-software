@@ -8,6 +8,7 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 * Book: Model Predictive Control: Theory, Computation, and Design, 2nd Edition by Rawlings, Mayne, Diehl [[web](https://sites.engineering.ucsb.edu/~jbraw/mpc/)] [[pdf](https://sites.engineering.ucsb.edu/~jbraw/mpc/MPC-book-2nd-edition-2nd-printing.pdf)]
 * Biegler, L. T., Nonlinear Programming, SIAM, 2010
 * Betts, J., Practical Methods for Optimal Control and Estimation Using Nonlinear Programming, SIAM, 2010
+* Videos of lectures at the University of Florida from the Spring of 2012. Dr. Anil V. Rao. [[web](http://www.anilvrao.com/Optimal-Control-Videos.html)]
 
 ## Software 
 
