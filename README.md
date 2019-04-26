@@ -4,13 +4,24 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 
 ## Literature
 
+### Lectures
+
+* Lecture notes: Numerical Optimal Control by Prof. Moritz Diehl [[course](https://www.syscop.de/teaching/ss2017/numerical-optimal-control)] [[pdf](https://www.syscop.de/files/2017ss/NOC/script/book-NOCSE.pdf)]
+* Tutorial series by Metthew Kelly, [[web](http://www.matthewpeterkelly.com/tutorials/index.html)]
+* Liberzon, Daniel. Calculus of variations and optimal control theory: a concise introduction. Princeton University Press, 2011. [[pre-print](http://liberzon.csl.illinois.edu/teaching/cvoc.pdf)]
+* Videos of lectures at the University of Florida from the Spring of 2012. Dr. Anil V. Rao. [[web](http://www.anilvrao.com/Optimal-Control-Videos.html)]
+
+### Books
+
 * Bertsekas, Dimitri P., et al. Dynamic programming and optimal control. Vol. 1. No. 2. Belmont, MA: Athena scientific, 1995.
 * Betts, J., Practical Methods for Optimal Control and Estimation Using Nonlinear Programming, SIAM, 2010
 * Biegler, L. T., Nonlinear Programming, SIAM, 2010
-* Lecture notes: Numerical Optimal Control by Prof. Moritz Diehl [[course](https://www.syscop.de/teaching/ss2017/numerical-optimal-control)] [[pdf](https://www.syscop.de/files/2017ss/NOC/script/book-NOCSE.pdf)]
-* Liberzon, Daniel. Calculus of variations and optimal control theory: a concise introduction. Princeton University Press, 2011. [[pre-print](http://liberzon.csl.illinois.edu/teaching/cvoc.pdf)]
-* Videos of lectures at the University of Florida from the Spring of 2012. Dr. Anil V. Rao. [[web](http://www.anilvrao.com/Optimal-Control-Videos.html)]
-* Book: Model Predictive Control: Theory, Computation, and Design, 2nd Edition by Rawlings, Mayne, Diehl [[web](https://sites.engineering.ucsb.edu/~jbraw/mpc/)] [[pdf](https://sites.engineering.ucsb.edu/~jbraw/mpc/MPC-book-2nd-edition-2nd-printing.pdf)]
+* Model Predictive Control: Theory, Computation, and Design, 2nd Edition by Rawlings, Mayne, Diehl [[web](https://sites.engineering.ucsb.edu/~jbraw/mpc/)] [[pdf](https://sites.engineering.ucsb.edu/~jbraw/mpc/MPC-book-2nd-edition-2nd-printing.pdf)]
+
+### Survey papers
+
+* F. Topputo and C. Zhang, “Survey of Direct Transcription for Low-Thrust Space Trajectory Optimization with Applications,” Abstract and Applied Analysis, vol. 2014, Article ID 851720, 15 pages, 2014. [[edited](https://www.hindawi.com/journals/aaa/2014/851720/)
+
 
 ## Software 
 
@@ -19,6 +30,7 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 - Acado [[github](https://github.com/acado/acado)] [[web](http://acado.github.io/)]
 - BOCOP [[web](https://www.bocop.org/)]
 - Control toolbox, domain specific for robotics [[bitbucket](https://bitbucket.org/adrlab/ct/wiki/Home)]
+- Dymos: Open-source Optimal Control for Multidisciplinary Systems [[github](https://github.com/OpenMDAO/dymos)]
 - ICLOCS2 [[github](https://github.com/ImperialCollegeLondon/ICLOCS/)] [[web](http://www.ee.ic.ac.uk/ICLOCS/)] 
 - Modelica with JModelica [[web](https://jmodelica.org/)] 
 - OpenOCL [[github](https://github.com/OpenOCL/OpenOCL)] [[web](https://openocl.org/)] 
