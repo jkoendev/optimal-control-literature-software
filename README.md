@@ -25,9 +25,10 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 
 ## Software 
 
-### High level optimal control modeling languages
+### High level optimal control modeling languages and optimal control software
 
 - Acado [[github](https://github.com/acado/acado)] [[web](http://acado.github.io/)]
+- acados [[github](https://github.com/acados/acados)] [[web](http://acados.org/)]
 - BOCOP [[web](https://www.bocop.org/)]
 - Control toolbox, domain specific for robotics [[bitbucket](https://bitbucket.org/adrlab/ct/wiki/Home)]
 - Dymos: Open-source Optimal Control for Multidisciplinary Systems [[github](https://github.com/OpenMDAO/dymos)]
